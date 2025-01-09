@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Victoria, you can also call me Vic. 
+
+🔭 I’m currently working on applications of Earth Observation data for Indigenous communities. 
+
 <!--
 **vectorialy/vectorialy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
