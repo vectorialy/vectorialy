@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi, I'm Victoria 👋
 
 My name is Victoria, you can also call me Vic. 
 
-🔭 I’m currently working on applications of Earth Observation data for climate adaptation. 
+🔭 I’m a research scientist and engineer in NASA Earth Action. I work on getting Earth Observation satellite data into the hands of communities for climate adaptation and decision making. 
 
 <!--
 **vectorialy/vectorialy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
